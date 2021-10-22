@@ -1,0 +1,14 @@
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.exe
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.deps.json
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.runtimeconfig.json
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.runtimeconfig.dev.json
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.dll
+C:\Users\wende\source\repos\verificapar_\verificapar_\bin\Debug\netcoreapp3.1\verificapar_.pdb
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.csproj.AssemblyReference.cache
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.AssemblyInfoInputs.cache
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.AssemblyInfo.cs
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.csproj.CoreCompileInputs.cache
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.dll
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.pdb
+C:\Users\wende\source\repos\verificapar_\verificapar_\obj\Debug\netcoreapp3.1\verificapar_.genruntimeconfig.cache
